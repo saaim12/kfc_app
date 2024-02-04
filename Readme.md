@@ -29,9 +29,9 @@ Some photos of my project.
 
 <div style="display: flex; justify-content: space-between;">
 
-  <img src="" width="30%" alt="Image 1">
+  <img src="assets\img2.jpg" width="30%" alt="Image 1">
   
-  <img src="" width="30%" alt="Image 2">
+  <img src="assets\img1.jpg" width="30%" alt="Image 2">
 
 
 </div>
