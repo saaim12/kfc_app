@@ -1,35 +1,38 @@
-# Running the App
+# kfc menu app
 
-**Step 1:** Clone the repository.
+This app utilizes Hugging Face's machine learning model for image generation.
 
-``bash
-git clone <repository-url>
-cd <repository-directory>
-**Step 2:**Run app
-npx expo start
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>App Screenshots</title>
-  <style>
-    div {
-      display: flex;
-      justify-content: space-between;
-    }
-    
-    img {
-      max-width: 45%;
-      height: auto;
-      margin: 5px;
-    }
-  </style>
-</head>
-<body>
-  <div>
-    <img src="assets/img1.jpg" alt="image">
-    <img src="assets/img2.jpg" alt="image">
-  </div>
-</body>
-</html>
+## Getting Started
+
+### Prerequisites
+Make sure you have Node.js and npm installed on your machine.
+
+### Installation
+1. Install project dependencies:
+
+   ```bash
+   npm install
+2.Start the app:
+
+   ```bash
+  npx expo start
+
+   ```
+Usage
+The app provides a user-friendly interface for menu of kfc .
+
+# My Project
+
+
+
+Some photos of my project.
+
+<div style="display: flex; justify-content: space-between;">
+
+  <img src="" width="30%" alt="Image 1">
+  
+  <img src="" width="30%" alt="Image 2">
+
+
+</div>
+
